@@ -18,7 +18,7 @@ NWebsec - Improved session security for ASP.NET
 
 The NWebsec.SessionSecurity library improves ASP.NET session security by enforcing a strong binding between an authenticated user's identity and the user's session identifier.
 
-You'll find the library on NuGet: `NWebsec.SessionSecurity <http://nuget.org/packages/NWebsec.SessionSecurity/>`_. You can also get it under Releases".
+You'll find the library on NuGet: `NWebsec.SessionSecurity <http://nuget.org/packages/NWebsec.SessionSecurity/>`_. You can also get it under `Releases <https://github.com/NWebsec/NWebsec.SessionSecurity/releases>`_ over at GitHub.
 
 To learn more about how it works, see :doc:`Authenticated-session-identifiers`. To see how it's configured, refer to :doc:`Configuring-session-security`. 
 
